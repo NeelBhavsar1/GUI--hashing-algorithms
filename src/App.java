@@ -140,5 +140,7 @@ public class App {
 
         //needed for making the frame visible on screen
         frame.setVisible(true);
+
+        //hello
     }
 }
