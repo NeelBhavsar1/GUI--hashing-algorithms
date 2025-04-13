@@ -34,4 +34,4 @@ javax.swing: For creating the graphical user interface.
 java.awt: For layout management and user interface elements.
 
 ## Future Improvements
-Replace the placeholder hashing logic with real hashing implementations using java.security.MessageDigest or libraries like Bouncy Castle.
+Add more hashing algorithms such as the rest of the SHA-2 family, etc..
