@@ -33,5 +33,7 @@ javax.swing: For creating the graphical user interface.
 
 java.awt: For layout management and user interface elements.
 
+java.security: For implementing hashing functionality
+
 ## Future Improvements
 Add more hashing algorithms such as the rest of the SHA-2 family, etc..
