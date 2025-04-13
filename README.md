@@ -1,7 +1,7 @@
 ## Hashing GUI Application
 
 ## Description
-This project is a user-friendly graphical interface for hashing passwords using algorithms like SHA-256, MD5, and Blake2. Built with Java Swing, the application provides options to input a password, choose a hashing algorithm, and view the hashed result. It also includes helpful features such as clearing inputs and displaying additional information (e.g., Help and Credits).
+This project is a user-friendly graphical interface for hashing passwords using algorithms like SHA-256, and MD5. Built with Java Swing, the application provides options to input a password, choose a hashing algorithm, and view the hashed result. It also includes helpful features such as clearing inputs and displaying additional information (e.g., Help and Credits).
 
 ## Features
 Password Hashing: Hash passwords using various algorithms.
